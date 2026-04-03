@@ -10,3 +10,8 @@ I followed the tutorial for the Pathfinder while adding a knob/rotary encoder an
 More images and progress can be found in my journals.
 
 My Pathfinder has a button that puts power to the LED, and a knob that gives a value in the Serial monitor that can also reset back to zero. 
+
+
+Image of Bill of Materials 
+
+<img width="972" height="763" alt="image" src="https://github.com/user-attachments/assets/ebc94125-80c9-4a01-8898-d9561b724dc9" />
