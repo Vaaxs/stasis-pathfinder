@@ -1,0 +1,10 @@
+NAME,PURPOSE,QTY,UNIT PRICE,TOTAL (USD),LINK,DISTRIBUTOR
+5529 (Knob),Knob part of rotary encoder,1,2.95,2.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5529/16653408,Digikey
+MX1A-E1NN,Part of the Switch,1,1.25,1.25,https://www.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084,Digikey
+BL-BBX1V4V-2-B02,Being a LED and an Output,1,0.19,0.19,https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-BBX1V4V-2-B02/22486905,Digikey
+PEC11R-4220F-S0012,Part of knob,1,2.2,2.2,https://www.digikey.com/en/products/detail/american-bright-optoelectronics-corporation/BL-BBX1V4V-2-B02/22486905,Digikey
+PCB,Control the project,5,0,0,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&spm=Jlcpcb.Instantquote.1009&_t=1775185446838&up_spm=Jlcpcb.Loginpage.1003,JLCPCB
+,,,,,,
+TAX (USD),,,,0.44,,
+SHIPPING (USD),,,,8.11,,
+GRAND TOTAL,,,,15.14,,
